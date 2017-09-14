@@ -8,7 +8,7 @@ url: "http://zhangxuanming.com"
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " zhangxuanming"
   email: 1145309509@qq.com
   bio: "多走几步路，看到的风景也会多的"
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "zhangxuanming"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
